@@ -1,9 +1,1 @@
-### Hi there 👋, my name is Walid Omar
-<img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=Hello+%F0%9F%91%8B+my;name+is+Walid">
-<img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=I'M+%F0%9F%91%8B+An;Embedded+SW+Developer">
-
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=25&duration=4000&pause=1000&background=FCFCFC4C&center=true&multiline=true&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+Walid+Omar;An+Embedded+SW+Developer)](https://git.io/typing-svg)
