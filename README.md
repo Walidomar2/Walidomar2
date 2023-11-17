@@ -2,3 +2,6 @@
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/ledooo2/"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
 </p>
+<p align="center">
+[![SkillIcons](https://skillicons.dev/icons?i=,py)]
+</p>
